@@ -140,7 +140,7 @@ input, select {
 	/*border: 1px solid #000;*/
 	position: absolute;
 	left:60%;
-	top:20%;
+	top:40%;
 	animation-name: time;
 	animation-duration: 40s;
 	animation-iteration-count: infinite;
@@ -253,7 +253,7 @@ input, select {
 }
 .tree {
 	width:10px;
-	height:40px;
+	height:90px;
 	background-color: #766257;
 	left: 200px;
 	position: absolute;	
