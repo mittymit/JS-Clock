@@ -141,7 +141,7 @@ input, select {
 	/*border: 1px solid #000;*/
 	position: absolute;
 	left:60%;
-	top:20%;
+	top:50%;
 	animation-name: time;
 	animation-duration: 50s;
 	animation-iteration-count: infinite;
